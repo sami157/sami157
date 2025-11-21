@@ -15,7 +15,8 @@
 ## 👩‍💻 About Me
 
 - 💼 Currently working as a **Full Stack Developer & Backend Engineer**
--🎓 **Electrical and Electronic Engineering (EEE)** graduate
+- 🎓 **Electrical and Electronic Engineering (EEE)** graduate
+
 - 🛠️ Experienced with **MERN Stack**, **Next.js**, **REST APIs**, and **Cloud Deployments**
 - 💬 Ask me about **C, C++, Java, Python, Backend Architecture & Scalable Systems**
 
