@@ -14,8 +14,10 @@
 
 ## 👩‍💻 About Me
 
-- 💼 Currently working as an **Electrical and Controls Engineer**
+- 💼 Working as an **Electrical and Controls Engineer**
 - 🎓 **Electrical and Electronic Engineering (EEE)** graduate, Web development enthusiast
+- 🖥️ Currently working on a MERN stack based dining management project
+- 🚀 Currently learning Database Design, advanced Postgresql and Prisma ORM
 
 - 🛠️ Experienced with **MERN Stack**, **Next.js**, **REST APIs**, and **Cloud Deployments**
 - 💬 Ask me about **C, C++, Java, Python, Backend Architecture & Scalable Systems**
