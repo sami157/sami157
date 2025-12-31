@@ -26,8 +26,8 @@
 # 🚀 Tech Stack
 
 ## 🧩 Full Stack & Web Development
-| MERN | Next.js | REST APIs | WebSockets | Supabase | Firebase | NeonDB |
-|------|---------|-----------|------------|----------|----------|---------|
+| MERN | Next.js | REST APIs | Firebase | NeonDB |
+|------|---------|-----------|--------- |---------|
 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 
 ## 🌐 Frontend Technologies  
