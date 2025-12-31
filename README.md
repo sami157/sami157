@@ -14,8 +14,8 @@
 
 ## 👩‍💻 About Me
 
-- 💼 Currently working as a **Full Stack Developer & Backend Engineer**
-- 🎓 **Electrical and Electronic Engineering (EEE)** graduate
+- 💼 Currently working as an **Electrical and Controls Engineer**
+- 🎓 **Electrical and Electronic Engineering (EEE)** graduate, Web development enthusiast
 
 - 🛠️ Experienced with **MERN Stack**, **Next.js**, **REST APIs**, and **Cloud Deployments**
 - 💬 Ask me about **C, C++, Java, Python, Backend Architecture & Scalable Systems**
@@ -35,15 +35,10 @@
 |--------|----------|------------|--------|--------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> |
 
-## 📱 Mobile Development  
-| Flutter |
-|---------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/> |
-
 ## 🖥️ Programming Languages  
-| C | C++ | Java | Python | Rust |
+| C | C# | Structured Text | JavaScript |
 |---|-----|------|--------|-------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> | <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" width="40"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 
 ## 🗄️ Databases & Backend  
 | MySQL | PostgreSQL | MongoDB | Firebase | Supabase |
