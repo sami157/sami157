@@ -36,19 +36,15 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> |
 
 ## 🖥️ Programming Languages  
-| C | C# | Structured Text | JavaScript |
-|---|-----|---------|--------|
+| C | C# | JavaScript | Structured Text |
+|---|-----|--------|---------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://smookcreative.gallerycdn.vsassets.io/extensions/smookcreative/structuredtext/0.1.1/1508154263151/Microsoft.VisualStudio.Services.Icons.Default" width="40"/>
 
 ## 🗄️ Databases & Backend  
-| MySQL | PostgreSQL | MongoDB | Firebase | Supabase |
-|--------|-------------|----------|----------|-----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" width="40"/> |
+| MySQL | PostgreSQL | MongoDB | Firebase |
+|--------|-------------|----------|----------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/> |
 
-## ☁️ Cloud & DevOps  
-| AWS | Azure | Docker | Git |
-|------|--------|---------|------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> |
 
 ---
 
@@ -74,7 +70,5 @@
 
 ## 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/tazkia-malik-42506129b" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" /></a>
-<a href="https://www.youtube.com/c/@tazkiamalik-lr9fz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" /></a>
-<a href="https://www.leetcode.com/tazkia_007" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanzir-ahmed-sami/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" /></a>
 </p>
