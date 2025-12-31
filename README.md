@@ -37,8 +37,8 @@
 
 ## 🖥️ Programming Languages  
 | C | C# | Structured Text | JavaScript |
-|---|-----|------|--------|-------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+|---|-----|---------|--------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://smookcreative.gallerycdn.vsassets.io/extensions/smookcreative/structuredtext/0.1.1/1508154263151/Microsoft.VisualStudio.Services.Icons.Default" width="40"/>
 
 ## 🗄️ Databases & Backend  
 | MySQL | PostgreSQL | MongoDB | Firebase | Supabase |
